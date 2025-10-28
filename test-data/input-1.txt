@@ -1,0 +1,4 @@
+# init: primary=10(0%), secondary=10(0%)
+GT4500,10,0,10,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

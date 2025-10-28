@@ -1,0 +1,3 @@
+# primary always fails, secondary fine
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE
